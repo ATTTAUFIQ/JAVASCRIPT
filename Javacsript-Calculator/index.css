@@ -1,1 +1,46 @@
-
+.outerdiv {
+  border: 2px solid black;
+  border-radius: 15px;
+  height: 550px;
+  width: 350px;
+  margin: auto;
+  margin-top: 5%;
+  background-color: azure;
+}
+.outputdiv {
+  border: 2px solid gray;
+  border-radius: 10px;
+  height: 90px;
+  width: 300px;
+  margin: 20px;
+  background-color: antiquewhite;
+}
+hr {
+  border: 1px solid black;
+}
+.buttonn {
+  height: 70px;
+  width: 70px;
+  padding: 10px;
+  margin: 4px;
+  margin-top: 20px;
+  margin-left: 9px;
+  border-radius: 10px;
+  font-size: 30px;
+  background-color: gray;
+  color: white;
+}
+.outputyyy {
+  margin-left: 10px;
+}
+.buttonnm {
+  height: 70px;
+  width: 70px;
+  padding: 10px;
+  margin: 4px;
+  margin-top: 20px;
+  margin-left: 9px;
+  border-radius: 10px;
+  font-size: 30px;
+  background-color: yellow;
+}
